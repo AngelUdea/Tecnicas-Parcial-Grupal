@@ -1,0 +1,16 @@
+com\minimercado\modelo\Producto.class
+com\minimercado\gui\PanelProductos$1.class
+com\minimercado\modelo\DetalleVenta.class
+com\minimercado\gui\PanelClientes$1.class
+com\minimercado\Main.class
+com\minimercado\util\InicializadorDatos.class
+com\minimercado\gui\PanelFacturacion$1.class
+com\minimercado\gui\PanelClientes.class
+com\minimercado\gui\VentanaPrincipal.class
+com\minimercado\gui\PanelVentas$1.class
+com\minimercado\modelo\Cliente.class
+com\minimercado\util\FileManager.class
+com\minimercado\gui\PanelFacturacion.class
+com\minimercado\gui\PanelVentas.class
+com\minimercado\modelo\Venta.class
+com\minimercado\gui\PanelProductos.class
