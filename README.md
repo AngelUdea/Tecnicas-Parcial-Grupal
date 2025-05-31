@@ -1,0 +1,1 @@
+# Tecnicas-Parcial-Grupal
